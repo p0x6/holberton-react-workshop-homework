@@ -52,6 +52,8 @@ every function's arugments must be typed.
 function definition should have typed return value.
 No use of `any` anywhere, all objects must be typed.
 all not built-in datatypes must be typed during declaration; IE, object, array, etc.
+all class methods need to be explicitly either `public` or `private`.
+private function naming should preceed with an `_` (underscore) IE. `private _someFunction() {}`
 ```
 
 include the JS fiddle links in issue.
