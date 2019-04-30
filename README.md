@@ -5,5 +5,6 @@ I will be posting homework here every week for you to do. Depending on the weeks
 
 
 ### Week 1
-Slides: https://slides.com/p0x6/frontend-engineer-workshop
-Homework:
+[Slides](https://slides.com/p0x6/frontend-engineer-workshop)
+
+[Homework](./week-1.md)
