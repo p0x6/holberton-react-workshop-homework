@@ -15,7 +15,7 @@ The issue should look like:
 1) Link to psudo code / diagram
 2a) 1 sentence definition
 2b) 4 sentence definition.
-3c) JS fiddle link
+2c) JS fiddle link
 
 Typescript
 1)
